@@ -74,7 +74,7 @@ void waves()
   {
     approaching = false;
   }
-  if (y==random(-280,-500))
+  if (y==-300)
   {
     approaching = true;
   }
